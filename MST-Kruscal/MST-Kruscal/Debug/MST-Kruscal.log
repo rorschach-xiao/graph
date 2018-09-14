@@ -1,0 +1,4 @@
+﻿  MST-Kruscal.cpp
+c:\users\肖阳\source\repos\mst-kruscal\mst-kruscal\mst-kruscal.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\mst-kruscal\mst-kruscal\mst-kruscal.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+  MST-Kruscal.vcxproj -> C:\Users\肖阳\source\repos\MST-Kruscal\Debug\MST-Kruscal.exe

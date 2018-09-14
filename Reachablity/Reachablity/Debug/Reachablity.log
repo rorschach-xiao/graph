@@ -1,0 +1,5 @@
+﻿  Reachablity.cpp
+c:\users\肖阳\source\repos\reachablity\reachablity\reachablity.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\reachablity\reachablity\reachablity.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\reachablity\reachablity\reachablity.cpp(14): warning C4101: “j”: 未引用的局部变量
+  Reachablity.vcxproj -> C:\Users\肖阳\source\repos\Reachablity\Debug\Reachablity.exe

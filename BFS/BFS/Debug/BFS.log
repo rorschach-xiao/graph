@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  BFS.cpp
+c:\users\肖阳\source\repos\bfs\bfs\bfs.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  BFS.vcxproj -> C:\Users\肖阳\source\repos\BFS\Debug\BFS.exe

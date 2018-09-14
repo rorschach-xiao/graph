@@ -1,0 +1,4 @@
+﻿  TopologicalSort.cpp
+c:\users\肖阳\source\repos\topologicalsort\topologicalsort\topologicalsort.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\topologicalsort\topologicalsort\topologicalsort.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+  TopologicalSort.vcxproj -> C:\Users\肖阳\source\repos\TopologicalSort\Debug\TopologicalSort.exe

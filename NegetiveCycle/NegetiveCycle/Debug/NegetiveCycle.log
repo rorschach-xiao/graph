@@ -1,0 +1,4 @@
+﻿  NegetiveCycle.cpp
+c:\users\肖阳\source\repos\negetivecycle\negetivecycle\negetivecycle.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\negetivecycle\negetivecycle\negetivecycle.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+  NegetiveCycle.vcxproj -> C:\Users\肖阳\source\repos\NegetiveCycle\Debug\NegetiveCycle.exe

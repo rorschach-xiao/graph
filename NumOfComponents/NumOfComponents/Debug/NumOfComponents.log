@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  NumOfComponents.cpp
+c:\users\肖阳\source\repos\numofcomponents\numofcomponents\numofcomponents.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\numofcomponents\numofcomponents\numofcomponents.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\numofcomponents\numofcomponents\numofcomponents.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  NumOfComponents.vcxproj -> C:\Users\肖阳\source\repos\NumOfComponents\Debug\NumOfComponents.exe

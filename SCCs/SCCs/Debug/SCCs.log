@@ -1,0 +1,8 @@
+﻿  SCCs.cpp
+c:\users\肖阳\source\repos\sccs\sccs\sccs.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\sccs\sccs\sccs.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\sccs\sccs\sccs.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\sccs\sccs\sccs.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\sccs\sccs\sccs.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\肖阳\source\repos\sccs\sccs\sccs.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  SCCs.vcxproj -> C:\Users\肖阳\source\repos\SCCs\Debug\SCCs.exe
